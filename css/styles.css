@@ -1,0 +1,45 @@
+body {
+    margin: auto;
+}
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url("/img/fond.png");
+    font-family: 'Montserrat';
+    background-size: cover;
+    background-position: center;
+    height: 125vh;
+}
+
+.header-page {
+    justify-content: center;
+    display: flex;
+    color: #fff;
+}
+
+.header-page li {
+    list-style: none;
+}
+
+.header-page {
+    position: absolute;
+    justify-content: space-between;
+    width: 434px;
+    height: 22px;
+    left: 750px;
+    top: 44px;
+}
+   
+.equator {
+    justify-content: start;
+    display: flex;
+    color: #fff;
+}
+
+.equator {
+    position: absolute;
+    width: 434px;
+    height: 22px;
+    left: 10px;
+    top: 44px;
+}
+
