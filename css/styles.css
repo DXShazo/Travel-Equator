@@ -3,7 +3,7 @@ body {
 }
 
 body {
-    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url("/img/fond.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url("../img/fond.png");
     font-family: 'Montserrat';
     background-size: cover;
     background-position: center;
